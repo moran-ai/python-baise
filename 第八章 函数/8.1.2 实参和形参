@@ -1,0 +1,12 @@
+def greet_user(username):  形参username是函数完成工作所需要的一项信息
+    print('')
+
+greet_user('jence'),实参jence是调用函数时传递给函数的信息
+
+username 为形参
+jence 为实参
+
+
+概念：
+形参：函数完成其工作所需要的一项信息
+实参:实参是调用函数时传递给函数的信息
