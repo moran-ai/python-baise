@@ -1,0 +1,9 @@
+# coding:gbk
+requested_toppings = ['mushrooms','onions','pineapple']
+
+# Ê¹ÓÃ¹Ø¼ü×Öin
+if 'mushrooms' in requested_toppings:
+    print(True)
+else:
+    print(False)
+

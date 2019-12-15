@@ -1,0 +1,8 @@
+# coding:gbk
+banned_user = ['andrew','caroies','david']
+user = 'marice'
+
+# Ê¹ÓÃ¹Ø¼ü×Önot in
+if  user not in banned_user:
+    print(user.title() + ', you can post a response if you wish')
+
